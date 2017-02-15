@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 10:26:07 CST 2017
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.6.1 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: The operation was cancelled.
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1487123919964
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1487123919968
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1487125567833
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.6.1 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

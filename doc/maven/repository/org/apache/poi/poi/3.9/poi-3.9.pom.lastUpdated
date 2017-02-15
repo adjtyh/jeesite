@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 10:26:59 CST 2017
+@default-jeesite-repos-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1487123885534
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1487123885540
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1487125619198
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.poi\:poi\:pom\:3.9 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 09:58:39 CST 2017
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1487123919926
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:5.1.22 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: The operation was cancelled.
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1487123919929
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:5.1.22 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

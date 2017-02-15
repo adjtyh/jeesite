@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 10:26:06 CST 2017
+@default-jeesite-repos-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1487123884967
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1487123884987
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1487125566101
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact opensymphony\:sitemesh\:pom\:2.4.2 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
